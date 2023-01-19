@@ -5,6 +5,10 @@ module.exports = {
     extend: {
       colors: {
         background: '#09090A'
+      },
+      gridTemplateRows: {
+        // Simple 8 row grid
+        '7': 'repeat(7, minmax(0, 1fr))',
       }
     },
   },
