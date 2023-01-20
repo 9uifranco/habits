@@ -7,7 +7,7 @@ module.exports = {
         background: '#09090A'
       },
       gridTemplateRows: {
-        // Simple 8 row grid
+        // Simple 7 row grid
         '7': 'repeat(7, minmax(0, 1fr))',
       }
     },
